@@ -26,7 +26,7 @@
 
 * **Frontend:** [Svelte](https://svelte.dev/), TypeScript, Vite
 * **Desktop Shell & IPC:** [Tauri v2](https://v2.tauri.app/), Rust
-* **AI Engine:** [`llama_cpp_2`](https://www.google.com/search?q=https://github.com/eagletai/llama-cpp-rs) (C++ bindings for GGUF model execution)
+* **AI Engine:** [`llama_cpp_2`](https://github.com/utilityai/llama-cpp-rs) (C++ bindings for GGUF model execution)
 * **Async Runtime:** [Tokio](https://tokio.rs/)
 
 ---
