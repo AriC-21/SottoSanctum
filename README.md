@@ -1,6 +1,6 @@
 # SottoSanctum
 
-> *From the Latin sub rosa (under the rose) and sanctum (sacred place) - an air-gapped, local-first AI journaling app.*
+> *Derived from sotto voce ("under one's breath") and sanctum ("a private, sacred place") - capturing the quiet, intimate nature of daily self-talk, brain dumps, and air-gapped AI journaling.*
 
 > ⚠️ **Project Status: Under Active Build**
 > SottoSanctum is currently under active development. Core features, model integrations, and IPC interfaces are continuously being updated and refined.
