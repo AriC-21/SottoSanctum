@@ -45,7 +45,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SottoSanctum.git
+git clone https://github.com/AriC-21/SottoSanctum.git
 cd SottoSanctum
 
 ```
